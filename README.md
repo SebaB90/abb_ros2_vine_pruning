@@ -1,2 +1,4 @@
-# abb_ros2_vine_pruning
-ROS 2 Humble workspace per il controllo di un braccio robotico ABB con MoveIt 2, applicato alla potatura automatizzata della vite. Include setup Docker e configurazione personalizzata per la simulazione e la pianificazione del movimento.
+# ABB – Vine Pruning with ROS 2 🤖🍇
+
+📅 *Inizio progetto: 09/2025*  
+Applicazione di **potatura automatizzata su vite** utilizzando un braccio robotico **ABB** con **ROS 2 Humble**, **MoveIt 2** e simulazione in Gazebo.
